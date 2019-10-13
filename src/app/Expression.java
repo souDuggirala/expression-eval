@@ -335,13 +335,6 @@ public class Expression {
     }
     
     /*
-    public static void main(String[] args) {
-    	
-    	System.out.println(deleteSpaces(" Soumya and      Kiran"));
-    	
-    }
-    
-    /*
     //very intuitive, bottom were pushed first, top were pushed after
     private static <E> void printStack(Stack<E> S) {
     	Stack<E> temp = new Stack<E>();
